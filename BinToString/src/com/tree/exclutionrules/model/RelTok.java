@@ -13,4 +13,9 @@ public enum RelTok {
 	public String toString() {
 		return tok + "";
 	}
+
+	public char getTok() {
+		// TODO Auto-generated method stub
+		return tok;
+	}
 }

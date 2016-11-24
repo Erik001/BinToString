@@ -13,6 +13,11 @@ public enum TiposTok {
 	public String toString() {
 		return tok + "";
 	}
+
+	public char getTok() {
+		
+		return tok;
+	}
 	
 	
 }
